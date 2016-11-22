@@ -6,15 +6,17 @@ Build a clickable map of the United States.
 
 ## Description
 
-Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable. Here is a working example:
+This challenge is half-puzzle, half-demonstration of skill – some of the problem is not self-evident, and will take investigation. Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable.
+
+Here is your working example:
 
 https://teachbanzai.com/teachers/curriculum
 
-Feel free to explore it with Chrome Developer Tools for tips.
+Feel free to explore it with Chrome Developer Tools for clues and tips for implementing your own.
 
 ### Rules
 
-* No frameworks. No Angular – no React. No ES6. Use plain ole Javascript.
+* No frameworks. No Angular – no React. No ES6. Use plain ole Javascript, HTML, and CSS.
 * Each state should appear in its proper place (state images provided, see below).
 * Each state on the map should react to a mouse hover.
 * Clicking on a state should update _something_ on the screen showing which state was clicked.
@@ -24,3 +26,12 @@ The code you produce may be used on a real website, a redesign of http://teachba
 
 ## Help
 
+A clickable map can be generated using a combination of `<map>` and `<area>` HTML tags. [See here.](http://www.w3schools.com/tags/tag_area.asp), and map images.
+
+The coordinates for the map are in `states.json`, attached to this project.
+
+Use the images provided in the `./images` directory. (Hint: Try looking at map.png on a colored background.)
+
+## Suggestion
+
+The simpler the better. The fewer moving parts your solution has, the more attractive it will be.
