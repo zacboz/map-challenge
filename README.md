@@ -30,7 +30,7 @@ A clickable map can be generated using a combination of `<map>` and `<area>` HTM
 
 The coordinates for the map are in `states.json`, attached to this project.
 
-Use the images provided in the `./images` directory. (Hint: Try looking at map.png on a colored background.)
+Use the images provided in the `./images` directory. (Hint: Try looking at `states.png` on a colored background.)
 
 ## Suggestion
 
