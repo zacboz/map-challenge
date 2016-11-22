@@ -26,7 +26,7 @@ The code you produce may be used on a real website, a redesign of http://teachba
 
 ## Help
 
-A clickable map can be generated using a combination of `<map>` and `<area>` HTML tags ([See here.](http://www.w3schools.com/tags/tag_area.asp)), and overlay images.
+A clickable map can be generated using a combination of `<map>` and `<area>` HTML tags ([see here](http://www.w3schools.com/tags/tag_area.asp)), and overlay images.
 
 The coordinates for the map are in `states.json`, attached to this project.
 
