@@ -22,7 +22,7 @@ Feel free to explore it with Chrome Developer Tools for clues and tips for imple
 * Clicking on a state should update _something_ on the screen showing which state was clicked.
 * Don't worry about making it pretty.
 
-The code you produce may be used on a real website, a redesign of http://teachbanzai.com. You will, therefore, be paid $100.00 for your solution, whether or not your solution is chosen.
+The code you produce may be used on a real website, a redesign of http://teachbanzai.com. You will, therefore, be paid $100.00 for a _working_ solution, whether or not it's chosen.
 
 ## Help
 
