@@ -16,7 +16,7 @@ Feel free to explore it with Chrome Developer Tools for clues and tips for imple
 
 ### Rules
 
-* No frameworks. No Angular – no React. No ES6. Use plain ole Javascript, HTML, and CSS.
+* No frameworks. No Angular, no React – no jQuery. No ES6. Use plain ole Javascript, HTML, and CSS.
 * Each state should appear in its proper place (state images provided, see below).
 * Each state on the map should react to a mouse hover.
 * Clicking on a state should update _something_ on the screen showing which state was clicked.
