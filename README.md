@@ -16,11 +16,11 @@ Feel free to explore it with Chrome Developer Tools for clues and tips for imple
 
 ### Rules
 
-* No frameworks. No Angular, no React – no jQuery. No ES6. Use plain ole Javascript, HTML, and CSS.
 * Each state should appear in its proper place (state images provided, see below).
 * Each state on the map should react to a mouse hover.
 * Clicking on a state should update _something_ on the screen showing which state was clicked.
 * Don't worry about making it pretty.
+* No frameworks. No Angular, no React – no jQuery. No ES6. Use plain ole Javascript, HTML, and CSS.
 
 The code you produce may be used on a real website, a redesign of http://teachbanzai.com. You will, therefore, be paid $100.00 for a _working_ solution, whether or not it's chosen.
 
