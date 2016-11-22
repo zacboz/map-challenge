@@ -18,7 +18,7 @@ https://teachbanzai.com/teachers/curriculum
 * Clicking on a state should update _something_ on the screen showing which state was clicked.
 * Don't worry about making it pretty.
 
-The code you produce may be used on a real website, a redesign of http://teachbanzai.com. You will, therefore, be paid $100.00 for your solution.
+The code you produce may be used on a real website, a redesign of http://teachbanzai.com. You will, therefore, be paid $100.00 for your solution, whether or not your solution is chosen.
 
 ## Help
 
