@@ -35,3 +35,7 @@ Use the images provided in the `./images` directory. (Hint: You will need both `
 ## Suggestion
 
 The simpler the better. The fewer moving parts your solution has, the more attractive it will be.
+
+## Questions
+
+Don't hesitate to ask. While I won't provide tips for solving the problem, I can clarify the rules.
