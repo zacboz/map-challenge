@@ -6,9 +6,11 @@ Build a clickable map of the United States.
 
 ## Description
 
-Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable. Here is an example:
+Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable. Here is a working example:
 
 https://teachbanzai.com/teachers/curriculum
+
+Feel free to explore it with Chrome Developer Tools for tips.
 
 ### Rules
 
