@@ -12,7 +12,7 @@ Generate a map of the United States using **plain** HTML, CSS, and Javascript, m
 
 https://teachbanzai.com/teachers/curriculum
 
-Feel free to explore it with Chrome Developer Tools for clues and tips for implementing your own.
+Note, your task is to reproduce a clickable map, not this page. Feel free to explore it with Chrome Developer Tools for clues and tips for implementing your own.
 
 ### Rules
 
