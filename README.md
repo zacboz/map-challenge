@@ -6,9 +6,9 @@ Build a clickable map of the United States, for a browser.
 
 ## Description
 
-This challenge is half-puzzle, half-demonstration of skill – the problem is not self-evident, and will take investigation. Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable.
+This challenge is half-puzzle, half-demonstration of skill – the problem is not self-evident. Lean on problem-solving over code.
 
-Here is your working example:
+Generate a map of the United States using **plain** HTML, CSS, and Javascript, making each state clickable. Here is your working example:
 
 https://teachbanzai.com/teachers/curriculum
 
