@@ -2,7 +2,7 @@
 
 ## Task
 
-Build a clickable map of the United States.
+Build a clickable map of the United States, for a browser.
 
 ## Description
 
