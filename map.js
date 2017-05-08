@@ -22,25 +22,24 @@ function loadJSON(callback) {
        var coords = states[i].coords;
        var id = states[i].code;
        var name = states[i].name;
-       var mapp = mapElement.appendChild(area);
-       mapp.setAttribute("coords", coords);
-       mapp.setAttribute("id", id);
-       mapp.setAttribute("shape", "poly");
-       mapp.setAttribute("data-name", name);
-       mapp.addEventListener("mouseover", function(e){
+       var state = mapElement.appendChild(area);
+       state.setAttribute("coords", coords);
+       state.setAttribute("id", id);
+       state.setAttribute("shape", "poly");
+       state.setAttribute("data-name", name);
+       state.addEventListener("mouseover", function(e){
          handleMouseOver(e.target.id);
        }, false);
-       mapp.addEventListener("mouseout", function(e){
+       state.addEventListener("mouseout", function(e){
          handleMouseOut(e.target.id)
        }, false);
-       mapp.addEventListener("click", function(e){
+       state.addEventListener("click", function(e){
          var state_id = e.target.id;
          var state_name = e.target.dataset.name;
          handleClick(state_id, state_name);
        }, false);
        imageAdder(id);
      }
-
   });
  }
 
